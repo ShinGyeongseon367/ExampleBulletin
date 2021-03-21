@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.primary-font {display: flex; align-items: center;}
+.primary-font strong{display: flex;width: 100%;}
+.primary-font small{width: 100%; text-align: end;}
+.panel.panel-heading {display: flex;align-items: center;}
